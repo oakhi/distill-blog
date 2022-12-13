@@ -1,14 +1,14 @@
 {
-    "id": "CB0763C8",
-    "path": "~/distill blog/index.Rmd",
-    "project_path": "index.Rmd",
-    "type": "r_markdown",
-    "hash": "0",
+    "id": "9C2F5706",
+    "path": "~/distill blog/_site.yml",
+    "project_path": "_site.yml",
+    "type": "yaml",
+    "hash": "2564637490",
     "contents": "",
     "dirty": false,
-    "created": 1670863081995.0,
+    "created": 1670863083398.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
